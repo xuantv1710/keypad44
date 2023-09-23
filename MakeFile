@@ -1,0 +1,2 @@
+PROJECT_NAME := keypad4x4
+include $(IDF_PATH)/make/project.mk
